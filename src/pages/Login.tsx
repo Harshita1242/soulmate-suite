@@ -78,9 +78,7 @@ export const Login = () => {
 
           {/* Footer */}
           <div className="text-center mt-8">
-            <p className="text-sm text-muted-foreground">
-              Made with 💕 for couples in love
-            </p>
+            <p className="text-sm text-muted-foreground">Made with 💕 </p>
           </div>
         </div>
       </div>
